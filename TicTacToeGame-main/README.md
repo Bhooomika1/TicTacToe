@@ -15,3 +15,37 @@ Supports multiple rounds with a running scoreboard.
 Displays clear instructions in the console.
 
 Detects wins, losses, and draws.
+# How to Run
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Bhooomika1/TicTacToe.git
+cd TicTacToe
+Compile the Java files:
+
+bash
+Copy
+Edit
+javac TicTacToe/*.java
+Run the game:
+
+bash
+Copy
+Edit
+java TicTacToe.TicTacToe
+Usage
+Enter player names and symbols when prompted.
+
+Input row and column numbers (0-2) to make moves.
+
+After each round, decide if you want to play again.
+
+Scores are displayed after each round.
+
+# Requirements
+Java JDK 8 or higher installed.
+
+Command line or terminal to compile and run.
